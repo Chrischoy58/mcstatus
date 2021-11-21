@@ -54,7 +54,7 @@ Usage: mcstatus [OPTIONS] ADDRESS COMMAND [ARGS]...
   description: "A Minecraft Server"
   players: 1/20 ['Dinnerbone (61699b2e-d327-4a01-9f1e-0ea8c3f06bc6)']
 
-  $ mcstatus example.org query
+  $ mcstatus spookyown.tk query
   host: 93.148.216.34:25565
   software: v1.8.8 vanilla
   plugins: []
